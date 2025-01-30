@@ -60,3 +60,5 @@
 - **Month 6+**: Work on projects, deploy models, and contribute to open-source.
 
 By following this roadmap with the linked resources, you'll be able to build your own generative AI models and apply them to various creative tasks.
+
+Follow me and my Projects! 
