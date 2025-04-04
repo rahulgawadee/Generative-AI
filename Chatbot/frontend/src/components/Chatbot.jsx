@@ -175,18 +175,16 @@ const Chatbot = () => {
       {/* Input Area */}
       <div className="bg-white p-4 border-t border-gray-200">
         <div className="flex items-center space-x-2">
-          <Paperclip 
-            className="text-gray-500 cursor-pointer" 
-            onClick={() => fileInputRef.current.click()}
-          />
+       
           <input 
             type="file" 
             ref={fileInputRef}
             onChange={handleFileUpload}
             className="hidden"
+            
             accept="image/*"
           />
-          <Smile className="text-gray-500 cursor-pointer" />
+         
           <input
             type="text"
             value={input}
