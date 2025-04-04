@@ -1,7 +1,7 @@
 ### **Simplified Roadmap for Generative AI**
 
 #### **1. Learn Python & Basic Libraries**
-- **Why**: Python is the primary language for AI/ML.
+- **Why**: It is the primary language for AI/ML.
 - **Resources**:
   - [Python for Beginners](https://www.python.org/about/gettingstarted/)
   - [NumPy & Pandas Tutorial](https://www.datacamp.com/courses/intro-to-python-for-data-science)
